@@ -6,7 +6,7 @@ PowerShellでの起動を想定してます。
 
 1. docker, docker-composeをsetupする
 2. 遊びたい問題に移動する
-3. setup.ps1を実行すると問題が起動する
+3. deploy.ps1を実行すると問題が起動する（URLも提示される）
 4. フラグを探す（submit先ないんですけどね）
 
 ## フラグの形式
