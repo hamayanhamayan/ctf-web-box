@@ -1,0 +1,1 @@
+Disallow: /superhiddenpage.php
